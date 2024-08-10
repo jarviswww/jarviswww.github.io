@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Spatial-Temporal Perceiving: Deciphering User Hierarchical Intent in Session-Based Recommendation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://www.ijcai.org/proceedings/2024/267
+excerpt: 'This paper proposes the HearInt that considers the hierarchical intent in session-based recommendation.'
+date: 2024-8-9
+venue: 'IJCAI'
+paperurl: 'https://www.ijcai.org/proceedings/2024/0267.pdf'
+citation: 'Wang, Xiao and Dai, Tingting and Liu, Qiao and Liang, Shuang. 2024. Spatial-Temporal Perceiving: Deciphering User Hierarchical Intent in Session-Based Recommendation.&quot; In IJCAI. Jeju, South Korea. 2415--2423.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Session-based recommendation (SBR) aims to predict the next-interacted item based on anonymous users' behavior sequences. The main challenge is how to recognize the user intent with limited interactions to achieve a more accurate inference of user behavior. Existing works usually regard several consecutive items in the current session as intent. However, we argue such intent generation based on temporal transition ignores the fact that each item also has its semantically connected items in the feature space, which can be regarded as spatial intent. The limited consideration of intent fails to capture complex behavioral patterns in real-world scenarios, leading to sub-optimal solutions. To address this issue, we propose the Hierarchical Intent Perceiving Contrastive Learning Framework (HearInt) for SBR, which proposes a hierarchical consideration of intents from both temporal and spatial perspective. Specifically, we first propose that the user's temporal intents are mutually exclusive while the spatial intents are mutually compatible. Following these analyses, we design a Temporal Intent Decoupling module to mitigate the mutual influence of long-term and short-term intents, and a Cross-scale Contrastive Learning task to enhance the consistency of intents across different spatial scales. Experimental results on three real-world datasets exhibit that HearInt achieves state-of-the-art performance.
