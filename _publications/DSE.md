@@ -4,7 +4,7 @@ collection: publications
 permalink: 'https://link.springer.com/article/10.1007/s41019-025-00301-1'
 excerpt: 'This paper proposes the Hypro that considers both the in/out flow of relevant/irrelevant information in denoising recommendation.'
 date: 2025-6-1
-venue: 'Data Science and Engineering'
+venue: 'Data Science and Engineering (JCR Q1)'
 paperurl: 'https://link.springer.com/article/10.1007/s41019-025-00301-1'
 citation: 'Wang, Xiao, et al. "Rethinking the Denoising Strategy in Session-Based Recommendation via Bidirectional Information Flow" Data Science and Engineering (2025): 1-18.'
 ---
