@@ -1,9 +1,9 @@
 ---
 title: "Rethinking the Denoising Strategy in Session-Based Recommendation via Bidirectional Information Flow"
 collection: publications
-permalink: 'https://link.springer.com/article/10.1007/s41019-025-00301-1
+permalink: 'https://link.springer.com/article/10.1007/s41019-025-00301-1'
 excerpt: 'This paper proposes the Hypro that considers both the in/out flow of relevant/irrelevant information in denoising recommendation.'
-date: 2024-8-9
+date: 2025-6-1
 venue: 'Data Science and Engineering'
 paperurl: 'https://link.springer.com/article/10.1007/s41019-025-00301-1'
 citation: 'Wang, Xiao and Dai, Tingting and Wudong, Cai and Ke, Qin and Jie, Shao and Liang, Shuang. 2024. Spatial-Temporal Perceiving: Deciphering User Hierarchical Intent in Session-Based Recommendation.&quot; In IJCAI. Jeju, South Korea. 2415--2423.'
