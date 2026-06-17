@@ -23,8 +23,8 @@ From May to September 2025, I worked as a Recommendation Algorithm Intern at **B
     <li>2026.05.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper published in <strong>ACM Transactions on Information Systems</strong> (CCF-A, JCR Q1)!</li>
     <li>2025.11.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper accepted by <strong>AAAI 2026 Oral</strong> (CCF-A)! 🎤</li>
     <li>2025.10.16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded the <strong>National Scholarship!</strong> </li>
-    <li>2025.05.18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined <strong>TikTok</strong> as a Research Intern in Recommendation Algorithms</li>
     <li>2025.05.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper published in <strong>Data Science and Engineering</strong> (CCF-B, JCR Q1)!</li>
+    <li>2025.05.18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined <strong>TikTok</strong> as a Research Intern in Recommendation Algorithms</li>
     <li>2024.04.17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper accepted by <strong>IJCAI 2024</strong> (CCF-A)!</li>
   </ul>
 </div>
