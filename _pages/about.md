@@ -19,7 +19,7 @@ From May to September 2025, I worked as a Recommendation Algorithm Intern at **B
 <div style="background: linear-gradient(135deg, #e8f4fd 0%, #d0e8ff 100%); border-left: 5px solid #0066cc; padding: 12px 18px; margin-bottom: 25px; border-radius: 6px;">
   <span style="color: #0066cc; font-size: 20px; font-weight: 900; letter-spacing: 1px;">🔥 NEWs!</span>
   <ul style="margin: 6px 0 0 0; padding-left: 20px; color: #333; line-height: 1.7; font-size: 15px;">
-    <li>2026.07.03&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined the <strong>Kuaishou</strong>--Community Science Team--Recommendation Model Department, responsible for the scaling of the homepage fine-ranking model. <span style="color: #cc0000; font-weight: bold;">K-Starx Top Talent Program</span> </li>
+    <li>2026.07.03&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined the <strong>Kuaishou</strong>--Community Science Team--Recommendation Model Department, responsible for the scaling of the homepage fine-ranking model. <span style="color: #cc0000; font-weight: bold;">K-StarX Top Talent Program</span> </li>
     <li>2026.05.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper published in <strong>ACM Transactions on Information Systems</strong> (CCF-A, JCR Q1)!</li>
     <li>2025.11.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper accepted by <strong>AAAI 2026 Oral</strong> (CCF-A)! 🎤</li>
     <li>2025.10.16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded the <strong>National Scholarship!</strong> </li>
