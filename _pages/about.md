@@ -16,4 +16,20 @@ My research focuses on the *session-based recommendation* and *generative recomm
 From May to September 2025, I worked as a Recommendation Algorithm Intern at **ByteDance - TikTok**, where I deeply engaged in the optimization of core pipelines for recommendation systems. I led the fusion and enhancement of *multi-path retrival* and took charge of the iterative upgrading of the *primary retrival*.
 
 
+<div style="background: linear-gradient(135deg, #e8f4fd 0%, #d0e8ff 100%); border-left: 5px solid #0066cc; padding: 15px 20px; margin-bottom: 25px; border-radius: 6px;">
+  <span style="color: #0066cc; font-size: 22px; font-weight: 900; letter-spacing: 1px;">🔥 NEWs!</span>
+  <ul style="margin: 8px 0 0 0; padding-left: 20px; color: #333; line-height: 1.8;">
+    <li>2026.05.06   Joined the <strong>Kuaishou<strong>-Community Science Team-Recommendation Model Department, responsible for the scaling of the homepage fine-ranking model.</li>
+    <li>2026.05.06   One paper published in <strong>ACM Transactions on Information Systems</strong> (CCF-A, JCR Q1)!</li>
+    <li>2025.11.08   One paper accepted by <strong>AAAI 2026</strong> (Oral)! 🎤</li>
+    <li>2025.10.16   Awarded the National Scholarship! (CCF-A, JCR Q1)!</li>
+    <li>2025.05.18   Joined <strong>TikTok<strong> as a Research Intern in Recommendation Algorithms</li>
+    <li>2025.05.27   One paper published in <strong>Data Science and Engineering</strong> (CCF-B, JCR Q1)!</li>
+    <li>2024.04.17   One paper accepted by <strong>IJCAI 2024</strong>!</li>
+  </ul>
+</div>
+
+
+
+
 
