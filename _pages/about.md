@@ -21,11 +21,11 @@ From May to September 2025, I worked as a Recommendation Algorithm Intern at **B
   <ul style="margin: 8px 0 0 0; padding-left: 20px; color: #333; line-height: 1.8;">
     <li>2026.05.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined the <strong>Kuaishou</strong>-Community Science Team-Recommendation Model Department, responsible for the scaling of the homepage fine-ranking model. <span style="color: #cc0000; font-weight: bold;">K-Starx Top Talent Program</span> </li>
     <li>2026.05.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper published in <strong>ACM Transactions on Information Systems</strong> (CCF-A, JCR Q1)!</li>
-    <li>2025.11.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper accepted by <strong>AAAI 2026</strong> (Oral)! 🎤</li>
-    <li>2025.10.16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded the National Scholarship! (CCF-A, JCR Q1)!</li>
-    <li>2025.05.18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined <strong>TikTok<strong> as a Research Intern in Recommendation Algorithms</li>
+    <li>2025.11.08&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper accepted by <strong>AAAI 2026 Oral</strong> (CCF-A)! 🎤</li>
+    <li>2025.10.16&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded the National Scholarship! </li>
+    <li>2025.05.18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joined <strong>TikTok</strong>strong> as a Research Intern in Recommendation Algorithms</li>
     <li>2025.05.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper published in <strong>Data Science and Engineering</strong> (CCF-B, JCR Q1)!</li>
-    <li>2024.04.17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper accepted by <strong>IJCAI 2024</strong>!</li>
+    <li>2024.04.17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper accepted by <strong>IJCAI 2024</strong> (CCF-A)!</li>
   </ul>
 </div>
 
